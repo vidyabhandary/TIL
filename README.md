@@ -6,7 +6,6 @@ My Today I Learned snippets. Inspired by the post [Building a self-updating prof
 ## python
 
 * [Testing](https://github.com/vidyabhandary/til/blob/master/python/test.md) - 2020-07-26
-* [Testing if removal / renaming of all the index files will have a problem with this til read me update](https://github.com/vidyabhandary/til/blob/master/python/RemovedIndexFiles.md) - 2020-07-26
 * [Convert a datetime object to UTC without using pytz](https://github.com/vidyabhandary/til/blob/master/python/convert-to-utc-without-pytz.md) - 2020-07-26
 * [For testing the date sorting - 2](https://github.com/vidyabhandary/til/blob/master/python/python_setdefault.md) - 2020-07-26
 * [Double hash works ?](https://github.com/vidyabhandary/til/blob/master/python/python_check.md) - 2020-07-26
