@@ -6,6 +6,10 @@ My Today I Learned snippets. Inspired by the post [Building a self-updating prof
 ## python
 
 * [Convert a datetime object to UTC without using pytz](https://github.com/vidyabhandary/til/blob/master/python/convert-to-utc-without-pytz.md) - 2020-07-26
+* [Generate primes using Sieve of Erastosthenes](https://github.com/vidyabhandary/til/blob/master/python/generate_primes.md) - 2020-07-26
+* [Check if a number is prime](https://github.com/vidyabhandary/til/blob/master/python/is_prime.md) - 2020-07-26
+* [Python set_default() method](https://github.com/vidyabhandary/til/blob/master/python/set_default.md) - 2020-07-26
+* [Miscellaneous pythonisms](https://github.com/vidyabhandary/til/blob/master/python/misc_python.md) - 2020-07-26
 
 ## sqlite
 
