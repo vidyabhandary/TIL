@@ -17,6 +17,10 @@ My Today I Learned snippets. Inspired by the post [Building a self-updating prof
 * [Commit a file if it changed](https://github.com/vidyabhandary/til/blob/master/github-actions/commit-if-file-changed.md) - 2020-07-26
 * [Only run GitHub Action on push to master](https://github.com/vidyabhandary/til/blob/master/github-actions/only-master.md) - 2020-07-26
 * [Dump out all GitHub Actions context](https://github.com/vidyabhandary/til/blob/master/github-actions/dump-context.md) - 2020-07-26
+
+## pandas-numpy
+
+* [Partial Sorts Partitioning](https://github.com/vidyabhandary/til/blob/master/pandas-numpy/partial_sort.md) - 2020-07-26
 <!-- index ends -->
 
 ![Build README](https://github.com/vidyabhandary/til/workflows/Build%20README/badge.svg)
