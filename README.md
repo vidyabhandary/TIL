@@ -22,7 +22,6 @@ My Today I Learned snippets. Inspired by the post [Building a self-updating prof
 
 * [Set environment variables for all steps in a GitHub Action](https://github.com/vidyabhandary/til/blob/master/github-actions/set-environment-for-all-steps.md) - 2020-07-26
 * [Commit a file if it changed](https://github.com/vidyabhandary/til/blob/master/github-actions/commit-if-file-changed.md) - 2020-07-26
-* [Hash git](https://github.com/vidyabhandary/til/blob/master/github-actions/github_check.md) - 2020-07-26
 * [Only run GitHub Action on push to master](https://github.com/vidyabhandary/til/blob/master/github-actions/only-master.md) - 2020-07-26
 * [Dump out all GitHub Actions context](https://github.com/vidyabhandary/til/blob/master/github-actions/dump-context.md) - 2020-07-26
 <!-- index ends -->
