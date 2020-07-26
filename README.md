@@ -25,6 +25,10 @@ My Today I Learned snippets. Inspired by the post [Building a self-updating prof
 ## regex
 
 * [Regex to retrieve links from a markdown file](https://github.com/vidyabhandary/til/blob/master/regex/get_links.md) - 2020-07-26
+
+## ml_algorithms
+
+* [When using SVMs why do we need to scale the features](https://github.com/vidyabhandary/til/blob/master/ml_algorithms/svm_feature_scaling.md) - 2020-07-26
 <!-- index ends -->
 
 
