@@ -1,6 +1,6 @@
 # TIL
 
-My Today I Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
+Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
 <!-- index starts -->
 ## python
@@ -34,6 +34,7 @@ My Today I Learned snippets. Inspired by the post [Building a self-updating prof
 
 * [When using SVMs why do we need to scale the features](https://github.com/vidyabhandary/til/blob/master/ml_algorithms/svm_feature_scaling.md) - 2020-07-26
 <!-- index ends -->
+
 
 
 ![Build README](https://github.com/vidyabhandary/til/workflows/Build%20README/badge.svg)
