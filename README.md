@@ -13,7 +13,6 @@ My Today I Learned snippets. Inspired by the post [Building a self-updating prof
 
 ## sqlite
 
-* [For testing the date sorting - 1](https://github.com/vidyabhandary/til/blob/master/sqlite/sql_new_11_32.md) - 2020-07-26
 * [Lag window function in SQLite](https://github.com/vidyabhandary/til/blob/master/sqlite/lag-window-function.md) - 2020-07-26
 
 ## github-actions
