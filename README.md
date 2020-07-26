@@ -21,6 +21,14 @@ My Today I Learned snippets. Inspired by the post [Building a self-updating prof
 ## pandas-numpy
 
 * [Partial Sorts Partitioning](https://github.com/vidyabhandary/til/blob/master/pandas-numpy/partial_sort.md) - 2020-07-26
+
+## ML_Algorithms
+
+* [When using SVMs why do we need to scale the features](https://github.com/vidyabhandary/til/blob/master/ML_Algorithms/svm_feature_scaling.md) - 2020-07-26
+
+## regex
+
+* [Regex to retrieve links from a markdown file](https://github.com/vidyabhandary/til/blob/master/regex/get_links.md) - 2020-07-26
 <!-- index ends -->
 
 ![Build README](https://github.com/vidyabhandary/til/workflows/Build%20README/badge.svg)
