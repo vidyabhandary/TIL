@@ -5,7 +5,6 @@ My Today I Learned snippets. Inspired by the post [Building a self-updating prof
 <!-- index starts -->
 ## python
 
-* [Testing](https://github.com/vidyabhandary/til/blob/master/python/test.md) - 2020-07-26
 * [Convert a datetime object to UTC without using pytz](https://github.com/vidyabhandary/til/blob/master/python/convert-to-utc-without-pytz.md) - 2020-07-26
 
 ## sqlite
