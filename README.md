@@ -7,7 +7,6 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 
 * [Set environment variables for all steps in a GitHub Action](https://github.com/vidyabhandary/til/blob/master/github-actions/set-environment-for-all-steps.md) - 2020-07-26
 * [Only run GitHub Action on push to master](https://github.com/vidyabhandary/til/blob/master/github-actions/only-master.md) - 2020-07-26
-* [Dump out all GitHub Actions context](https://github.com/vidyabhandary/til/blob/master/github-actions/dump-context.md) - 2020-07-26
 
 ## pandas-numpy
 
