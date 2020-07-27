@@ -20,11 +20,6 @@ if __name__ == "__main__":
             index.append(
                 "* [{title}]({url}) - {date}".format(
                     date=row["created"].split("T")[0], **row
-
-# Without the date - including now as we need it for the TIL generation
-                
-#                 "* [{title}]({url})".format(
-#                     **row
                 )
             )
         index.append("")
