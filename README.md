@@ -3,10 +3,6 @@
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
 <!-- index starts -->
-## github-actions
-
-* [Set environment variables for all steps in a GitHub Action](https://github.com/vidyabhandary/til/blob/master/github-actions/set-environment-for-all-steps.md) - 2020-07-26
-
 ## pandas-numpy
 
 * [Partial Sorts Partitioning](https://github.com/vidyabhandary/til/blob/master/pandas-numpy/partial_sort.md) - 2020-07-26
