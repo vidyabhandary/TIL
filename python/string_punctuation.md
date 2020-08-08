@@ -5,7 +5,7 @@ to strip puncutation from a sentence.
 
 Chars in `string.punctuation` are
 
-> !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
+> ### !"#$%&'()*+,-./:;<=>?@[\]^_`{|}~
 
 ```
 import re
