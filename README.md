@@ -29,6 +29,6 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [Basic MapReduce Understanding](https://github.com/vidyabhandary/til/blob/master/sql/map_reduce.md) - 2020-08-01
 <!-- index ends -->
 
+---
 
-
-![Build README](https://github.com/vidyabhandary/til/workflows/Build%20README/badge.svg)
+[![Build README](https://github.com/vidyabhandary/til/workflows/Build%20README/badge.svg)](https://github.com/vidyabhandary/TIL/actions)
