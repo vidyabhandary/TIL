@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->9<!-- count ends --> TILs so far. 
+<!-- count starts -->10<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -23,6 +23,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [Generate primes using Sieve of Erastosthenes](https://github.com/vidyabhandary/til/blob/master/python/generate_primes.md) - 2020-07-26
 * [Check if a number is prime](https://github.com/vidyabhandary/til/blob/master/python/is_prime.md) - 2020-07-26
 * [Slicing and Reversing](https://github.com/vidyabhandary/til/blob/master/python/slicing_reversing.md) - 2020-08-07
+* [Python string.punctuation](https://github.com/vidyabhandary/til/blob/master/python/string_punctuation.md) - 2020-08-08
 
 ## sql
 
