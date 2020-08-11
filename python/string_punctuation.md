@@ -1,7 +1,7 @@
 # Python string.punctuation
 
 Python's `string.punctuation` contains list of special characters that can be used
-to strip puncutation from a sentence.
+to strip punctuation from a sentence.
 
 Chars in `string.punctuation` are
 
