@@ -1,3 +1,7 @@
+# Mini scripts bat file
+
+Mini scripts to create and open folders in a bat file.
+
 ## 1. Create folders 
 
 Create folders with folder names in seprate text file ( folder names can have spaces ).
