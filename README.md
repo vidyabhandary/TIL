@@ -33,7 +33,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 
 ## scripts
 
-* [1. Create folders](https://github.com/vidyabhandary/til/blob/master/scripts/script_create_open_folders.md) - 2020-09-28
+* [Mini scripts bat file](https://github.com/vidyabhandary/til/blob/master/scripts/script_create_open_folders.md) - 2020-09-28
 <!-- index ends -->
 
 ---
