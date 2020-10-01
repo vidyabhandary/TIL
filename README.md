@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->13<!-- count ends --> TILs so far. 
+<!-- count starts -->14<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -34,6 +34,10 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 ## scripts
 
 * [Mini scripts bat file](https://github.com/vidyabhandary/til/blob/master/scripts/script_create_open_folders.md) - 2020-09-28
+
+## misc
+
+* [Create SVG Icon with path info](https://github.com/vidyabhandary/til/blob/master/misc/create_svg_icon.md) - 2020-10-01
 <!-- index ends -->
 
 ---
