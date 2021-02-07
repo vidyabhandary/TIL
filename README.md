@@ -2,12 +2,13 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->18<!-- count ends --> TILs so far. 
+<!-- count starts -->19<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
 * [Partial Sorts Partitioning](https://github.com/vidyabhandary/til/blob/master/pandas-numpy/partial_sort.md) - 2020-07-26
 * [Drop rows with no values](https://github.com/vidyabhandary/til/blob/master/pandas-numpy/drop_na.md) - 2021-02-05
+* [Selecting columns](https://github.com/vidyabhandary/til/blob/master/pandas-numpy/select_columns.md) - 2021-02-07
 
 ## regex
 
