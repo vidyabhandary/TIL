@@ -16,4 +16,4 @@ order.dropna(subset=order.columns[1:], how='all', inplace=True)
 order.dropna(subset=['columnname'], inplace=True)
 
 ```
-Ref : [Python Data Cleaning Cookbook by Michael Walker](https://github.com/PacktPublishing/Python-Data-Cleaning-Cookbook)
+Ref : [Chapter 2: Python Data Cleaning Cookbook by Michael Walker](https://github.com/PacktPublishing/Python-Data-Cleaning-Cookbook)
