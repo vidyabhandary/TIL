@@ -1,4 +1,4 @@
-### Key points - Consistent Hashing
+### Key points of Consistent Hashing
 
 The key to understand Consistent Hashing is to understand the following:
 
