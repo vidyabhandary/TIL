@@ -44,7 +44,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 
 * [Create SVG Icon with path info](https://github.com/vidyabhandary/til/blob/master/misc/create_svg_icon.md) - 2020-10-01
 * [Differences between Containers and Virtual Machines (VMs)](https://github.com/vidyabhandary/til/blob/master/misc/ContainersVsVMs.md) - 2020-11-18
-* [Key points - Consistent Hashing](https://github.com/vidyabhandary/til/blob/master/misc/ConsistentHashing.md) - 2022-04-11
+* [Key points of Consistent Hashing](https://github.com/vidyabhandary/til/blob/master/misc/ConsistentHashing.md) - 2022-04-11
 <!-- index ends -->
 
 ---
