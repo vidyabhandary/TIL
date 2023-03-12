@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->23<!-- count ends --> TILs so far. 
+<!-- count starts -->24<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -47,6 +47,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [Differences between Containers and Virtual Machines (VMs)](https://github.com/vidyabhandary/til/blob/master/misc/ContainersVsVMs.md) - 2020-11-18
 * [Key points of Consistent Hashing](https://github.com/vidyabhandary/til/blob/master/misc/ConsistentHashing.md) - 2022-04-11
 * [What is Postings list ?](https://github.com/vidyabhandary/til/blob/master/misc/PostingsList.md) - 2023-03-12
+* [Clustered Index and Covering Index](https://github.com/vidyabhandary/til/blob/master/misc/Indexes.md) - 2023-03-12
 <!-- index ends -->
 
 ---
