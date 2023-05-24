@@ -11,6 +11,8 @@ Ref:
 
 - Designing Data-Intensive Applications by Martin Kleppman - Chapter 4 - Encoding and Evolution
 
+---
+
 2.  What is read-after-write consistency ?
 
 This is also known as read-your-writes consistency. This is a guarantee that if the user reloads the page, they will always see any updates they submitted themselves. It makes no promises about other users: other users’ updates may not be visible until some later time. However, it reassures
@@ -19,6 +21,8 @@ the user that their own input has been saved correctly.
 Ref:
 
 - Designing Data-Intensive Applications by Martin Kleppman - Chapter 5 - Replication
+
+---
 
 3.  Monotonic Reads
 
@@ -35,6 +39,8 @@ i.e., they will not read older data after having previously read newer data
 Ref:
 
 - Designing Data-Intensive Applications by Martin Kleppman - Chapter 5 - Replication
+
+---
 
 4.  Consistent Prefix Reads
 
