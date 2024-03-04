@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->26<!-- count ends --> TILs so far. 
+<!-- count starts -->27<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -22,10 +22,10 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 
 ## python
 
-* [Miscellaneous pythonisms](https://github.com/vidyabhandary/til/blob/master/python/misc_python.md) - 2020-07-26
-* [Check if a number is prime](https://github.com/vidyabhandary/til/blob/master/python/is_prime.md) - 2020-07-26
 * [Generate primes using Sieve of Erastosthenes](https://github.com/vidyabhandary/til/blob/master/python/generate_primes.md) - 2020-07-26
 * [Python set_default() method](https://github.com/vidyabhandary/til/blob/master/python/set_default.md) - 2020-07-26
+* [Miscellaneous pythonisms](https://github.com/vidyabhandary/til/blob/master/python/misc_python.md) - 2020-07-26
+* [Check if a number is prime](https://github.com/vidyabhandary/til/blob/master/python/is_prime.md) - 2020-07-26
 * [Slicing and Reversing](https://github.com/vidyabhandary/til/blob/master/python/slicing_reversing.md) - 2020-08-07
 * [Python string.punctuation](https://github.com/vidyabhandary/til/blob/master/python/string_punctuation.md) - 2020-08-08
 * [Named Slices](https://github.com/vidyabhandary/til/blob/master/python/named_slice.md) - 2020-08-28
@@ -49,6 +49,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [What is Postings list ?](https://github.com/vidyabhandary/til/blob/master/misc/PostingsList.md) - 2023-03-12
 * [Clustered Index and Covering Index](https://github.com/vidyabhandary/til/blob/master/misc/Indexes.md) - 2023-03-12
 * [Misc of Misc](https://github.com/vidyabhandary/til/blob/master/misc/Kaleidoscope.md) - 2023-05-02
+* [Homomorphic encryption](https://github.com/vidyabhandary/til/blob/master/misc/Homomorphic_encryption.md) - 2024-03-04
 
 ## ddia
 
