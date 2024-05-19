@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->29<!-- count ends --> TILs so far. 
+<!-- count starts -->30<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -52,6 +52,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [Homomorphic encryption](https://github.com/vidyabhandary/til/blob/master/misc/Homomorphic_encryption.md) - 2024-03-04
 * [What is Dynamic Routing ?](https://github.com/vidyabhandary/til/blob/master/misc/Dynamic_Routing.md) - 2024-04-13
 * [LBaaS (load balancing as aservice)](https://github.com/vidyabhandary/til/blob/master/misc/LBaaS.md) - 2024-05-19
+* [Key differences between MTTR, MTBF, RTO, and RPO](https://github.com/vidyabhandary/til/blob/master/misc/RTO_RPO_MTTR_MTBF.md) - 2024-05-19
 
 ## ddia
 
