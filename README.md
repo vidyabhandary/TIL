@@ -51,7 +51,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [Misc of Misc](https://github.com/vidyabhandary/til/blob/master/misc/Kaleidoscope.md) - 2023-05-02
 * [Homomorphic encryption](https://github.com/vidyabhandary/til/blob/master/misc/Homomorphic_encryption.md) - 2024-03-04
 * [What is Dynamic Routing ?](https://github.com/vidyabhandary/til/blob/master/misc/Dynamic_Routing.md) - 2024-04-13
-* [LBaaS (load balancing as aservice)](https://github.com/vidyabhandary/til/blob/master/misc/LBaaS.md) - 2024-05-19
+* [LBaaS (load balancing as a service)](https://github.com/vidyabhandary/til/blob/master/misc/LBaaS.md) - 2024-05-19
 * [Key differences between MTTR, MTBF, RTO, and RPO](https://github.com/vidyabhandary/til/blob/master/misc/RTO_RPO_MTTR_MTBF.md) - 2024-05-19
 
 ## ddia
