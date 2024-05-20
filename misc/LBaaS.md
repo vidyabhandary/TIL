@@ -1,4 +1,4 @@
-# LBaaS (load balancing as aservice)
+# LBaaS (load balancing as a service)
 
 LBaaS is a service offered by cloud providers that automatically distributes incoming traffic across multiple servers in your application's backend. This ensures:
 
