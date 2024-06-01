@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->32<!-- count ends --> TILs so far. 
+<!-- count starts -->33<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -55,6 +55,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [Key differences between MTTR, MTBF, RTO, and RPO](https://github.com/vidyabhandary/til/blob/master/misc/RTO_RPO_MTTR_MTBF.md) - 2024-05-19
 * [Partitioning Vs Sharding](https://github.com/vidyabhandary/til/blob/master/misc/PartioningVsSharding.md) - 2024-05-25
 * [Airflow vs Luigi](https://github.com/vidyabhandary/til/blob/master/misc/AirFlowVsLuigi.md) - 2024-06-01
+* [RabbitMQ priority queue](https://github.com/vidyabhandary/til/blob/master/misc/RabbitMQ_PriorityQs.md) - 2024-06-01
 
 ## ddia
 
