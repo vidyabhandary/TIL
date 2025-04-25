@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->35<!-- count ends --> TILs so far. 
+<!-- count starts -->36<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -62,6 +62,10 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 ## ddia
 
 * [Chapter 1 - Reliable, Scalable, and Maintainable Applications](https://github.com/vidyabhandary/til/blob/master/ddia/1_Chapter.md) - 2023-10-17
+
+## aws
+
+* [CloudFront Functions vs. Lambda@Edge: When to Use Which?](https://github.com/vidyabhandary/til/blob/master/aws/CloudFrontVsLambda@Edge.md) - 2025-04-25
 <!-- index ends -->
 
 ---
