@@ -41,4 +41,4 @@ Think of it like tools:
 **Simple Rule of Thumb:**
 
 - Start with **CloudFront Functions** if your task is simple, fast header/URL manipulation.
-- Move to **Lambda@Edge** if you hit limitations (need network calls, complex logic, longer runtime, access to request body, origin-facing events).
+- Move to **Lambda@Edge** if you hit limitations (need network calls, complex logic, longer runtime, access to request body, or origin-facing events).
