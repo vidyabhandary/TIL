@@ -24,8 +24,8 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 
 * [Python set_default() method](https://github.com/vidyabhandary/til/blob/master/python/set_default.md) - 2020-07-26
 * [Check if a number is prime](https://github.com/vidyabhandary/til/blob/master/python/is_prime.md) - 2020-07-26
-* [Generate primes using Sieve of Erastosthenes](https://github.com/vidyabhandary/til/blob/master/python/generate_primes.md) - 2020-07-26
 * [Miscellaneous pythonisms](https://github.com/vidyabhandary/til/blob/master/python/misc_python.md) - 2020-07-26
+* [Generate primes using Sieve of Erastosthenes](https://github.com/vidyabhandary/til/blob/master/python/generate_primes.md) - 2020-07-26
 * [Slicing and Reversing](https://github.com/vidyabhandary/til/blob/master/python/slicing_reversing.md) - 2020-08-07
 * [Python string.punctuation](https://github.com/vidyabhandary/til/blob/master/python/string_punctuation.md) - 2020-08-08
 * [Named Slices](https://github.com/vidyabhandary/til/blob/master/python/named_slice.md) - 2020-08-28
