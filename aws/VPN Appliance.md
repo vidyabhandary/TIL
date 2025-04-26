@@ -1,3 +1,5 @@
+# VPN Appliance
+
 In simple terms, a VPN appliance is a **dedicated piece of hardware** specifically designed and optimized to **establish, manage, and terminate Virtual Private Network (VPN) connections**.
 
 Here's a more detailed explanation:

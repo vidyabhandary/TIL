@@ -1,4 +1,4 @@
-**What is AWS SAM?**
+# What is AWS SAM?
 
 AWS **S**erverless **A**pplication **M**odel (SAM) is an **open-source framework** specifically designed for building and deploying **serverless applications** on AWS. Think of it as an extension of AWS CloudFormation that provides a **simplified, shorthand syntax** for defining serverless resources like:
 

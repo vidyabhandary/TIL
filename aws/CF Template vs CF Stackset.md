@@ -1,3 +1,5 @@
+# CloudFormation Template vs CloudFormation StackSet
+
 Key differences between a CloudFormation Template and a CloudFormation StackSet:
 
 | Feature/Aspect       | CloudFormation Template                                                                                                      | CloudFormation StackSet                                                                                                                                                                              |
