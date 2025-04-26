@@ -68,9 +68,9 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [CloudFront Functions vs. Lambda@Edge: When to Use Which?](https://github.com/vidyabhandary/til/blob/master/aws/CloudFrontVsLambda@Edge.md) - 2025-04-25
 * [AWS EKS vs EKS Anywhere Comparison Table](https://github.com/vidyabhandary/til/blob/master/aws/EKSAnyVsEKS.md) - 2025-04-26
 * [AWS RAM (Resource Access Manager) is a service that allows you to share your resources across AWS accounts and within your AWS Organization. It enables you to manage and control access to your resources in a more flexible and efficient way, especially in multi-account environments.](https://github.com/vidyabhandary/til/blob/master/aws/AWS_RAM.md) - 2025-04-26
-* [**What is AWS SAM?**](https://github.com/vidyabhandary/til/blob/master/aws/SAM.md) - 2025-04-26
-* [Key differences between a CloudFormation Template and a CloudFormation StackSet:](https://github.com/vidyabhandary/til/blob/master/aws/CF Template vs CF Stackset.md) - 2025-04-26
-* [In simple terms, a VPN appliance is a **dedicated piece of hardware** specifically designed and optimized to **establish, manage, and terminate Virtual Private Network (VPN) connections**.](https://github.com/vidyabhandary/til/blob/master/aws/VPN Appliance.md) - 2025-04-26
+* [What is AWS SAM?](https://github.com/vidyabhandary/til/blob/master/aws/SAM.md) - 2025-04-26
+* [CloudFormation Template vs CloudFormation StackSet](https://github.com/vidyabhandary/til/blob/master/aws/CF Template vs CF Stackset.md) - 2025-04-26
+* [VPN Appliance](https://github.com/vidyabhandary/til/blob/master/aws/VPN Appliance.md) - 2025-04-26
 <!-- index ends -->
 
 ---
