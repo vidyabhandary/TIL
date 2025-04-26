@@ -1,3 +1,5 @@
+# AWS RAM
+
 # AWS RAM (Resource Access Manager) is a service that allows you to share your resources across AWS accounts and within your AWS Organization. It enables you to manage and control access to your resources in a more flexible and efficient way, especially in multi-account environments.
 
 # AWS RAM is particularly useful in organizations that have adopted a multi-account strategy, as it allows for better resource management, cost allocation, and security controls.
