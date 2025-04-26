@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->41<!-- count ends --> TILs so far. 
+<!-- count starts -->42<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -71,6 +71,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [What is AWS SAM?](https://github.com/vidyabhandary/til/blob/master/aws/SAM.md) - 2025-04-26
 * [CloudFormation Template vs CloudFormation StackSet](https://github.com/vidyabhandary/til/blob/master/aws/CF Template vs CF Stackset.md) - 2025-04-26
 * [VPN Appliance](https://github.com/vidyabhandary/til/blob/master/aws/VPN Appliance.md) - 2025-04-26
+* [AWS Security Tools](https://github.com/vidyabhandary/til/blob/master/aws/aws_security_tools.md) - 2025-04-26
 <!-- index ends -->
 
 ---
