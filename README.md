@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->46<!-- count ends --> TILs so far. 
+<!-- count starts -->47<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -76,6 +76,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [Origin Response vs. Viewer Response](https://github.com/vidyabhandary/til/blob/master/aws/OriginRespVsViewerResp.md) - 2025-04-27
 * [EC2 Instance Savings Plans vs Compute Savings Plans](https://github.com/vidyabhandary/til/blob/master/aws/ECSInstanceVsComputeSavings.md) - 2025-04-30
 * [Mandatory and strongly recommended controls](https://github.com/vidyabhandary/til/blob/master/aws/MandatoryVsStronglyRecoCtrls.md) - 2025-05-01
+* [AWS Control Tower guardrails](https://github.com/vidyabhandary/til/blob/master/aws/TypesOfGuardRails.md) - 2025-05-01
 <!-- index ends -->
 
 ---
