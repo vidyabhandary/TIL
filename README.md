@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->47<!-- count ends --> TILs so far. 
+<!-- count starts -->48<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -77,6 +77,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [EC2 Instance Savings Plans vs Compute Savings Plans](https://github.com/vidyabhandary/til/blob/master/aws/ECSInstanceVsComputeSavings.md) - 2025-04-30
 * [Mandatory and strongly recommended controls](https://github.com/vidyabhandary/til/blob/master/aws/MandatoryVsStronglyRecoCtrls.md) - 2025-05-01
 * [AWS Control Tower guardrails](https://github.com/vidyabhandary/til/blob/master/aws/TypesOfGuardRails.md) - 2025-05-01
+* [Key differences between the VPC attributes `enableDnsSupport` and `enableDnsHostnames`:](https://github.com/vidyabhandary/til/blob/master/aws/VPC_DNSAttributes.md) - 2025-05-02
 <!-- index ends -->
 
 ---
