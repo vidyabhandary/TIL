@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->49<!-- count ends --> TILs so far. 
+<!-- count starts -->50<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -82,6 +82,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 ## ai
 
 * [VAEs - Variational Autoencoders](https://github.com/vidyabhandary/til/blob/master/ai/VAE.md) - 2025-05-02
+* [Beta-VAE / CVAE](https://github.com/vidyabhandary/til/blob/master/ai/Beta_VAE_CVAE.md) - 2025-05-02
 <!-- index ends -->
 
 ---
