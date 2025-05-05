@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->51<!-- count ends --> TILs so far. 
+<!-- count starts -->52<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -79,6 +79,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [AWS Control Tower guardrails](https://github.com/vidyabhandary/til/blob/master/aws/TypesOfGuardRails.md) - 2025-05-01
 * [Key differences between the VPC attributes `enableDnsSupport` and `enableDnsHostnames](https://github.com/vidyabhandary/til/blob/master/aws/VPC_DNSAttributes.md) - 2025-05-02
 * [S3 Gateway Endpoints and S3 Interface Endpoints](https://github.com/vidyabhandary/til/blob/master/aws/S3_Gateway_Interface_EndPoint.md) - 2025-05-03
+* [API Gateway Resource vs. Usage Plans](https://github.com/vidyabhandary/til/blob/master/aws/ResourcePolicyVsUsagePolicy.md) - 2025-05-05
 
 ## ai
 
