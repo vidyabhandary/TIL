@@ -77,7 +77,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [EC2 Instance Savings Plans vs Compute Savings Plans](https://github.com/vidyabhandary/til/blob/master/aws/ECSInstanceVsComputeSavings.md) - 2025-04-30
 * [Mandatory and strongly recommended controls](https://github.com/vidyabhandary/til/blob/master/aws/MandatoryVsStronglyRecoCtrls.md) - 2025-05-01
 * [AWS Control Tower guardrails](https://github.com/vidyabhandary/til/blob/master/aws/TypesOfGuardRails.md) - 2025-05-01
-* [Key differences between the VPC attributes `enableDnsSupport` and `enableDnsHostnames](https://github.com/vidyabhandary/til/blob/master/aws/VPC_DNSAttributes.md) - 2025-05-02
+* [Key differences between the VPC attributes `enableDnsSupport` and `enableDnsHostnames`](https://github.com/vidyabhandary/til/blob/master/aws/VPC_DNSAttributes.md) - 2025-05-02
 * [S3 Gateway Endpoints and S3 Interface Endpoints](https://github.com/vidyabhandary/til/blob/master/aws/S3_Gateway_Interface_EndPoint.md) - 2025-05-03
 * [API Gateway Resource vs. Usage Plans](https://github.com/vidyabhandary/til/blob/master/aws/ResourcePolicyVsUsagePolicy.md) - 2025-05-05
 
