@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->54<!-- count ends --> TILs so far. 
+<!-- count starts -->55<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -82,6 +82,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [API Gateway Resource vs. Usage Plans](https://github.com/vidyabhandary/til/blob/master/aws/ResourcePolicyVsUsagePolicy.md) - 2025-05-05
 * [Comparison of **CNAME** vs **NS** DNS records:](https://github.com/vidyabhandary/til/blob/master/aws/NS_CNAME.md) - 2025-05-24
 * [Comparison of **NS**, **A**, and **AAAA** DNS records:](https://github.com/vidyabhandary/til/blob/master/aws/NS_A_AAAA.md) - 2025-05-24
+* [Key responsibilities of **AWS Systems Manager**:](https://github.com/vidyabhandary/til/blob/master/aws/AWS_SystemMgr.md) - 2025-05-25
 
 ## ai
 
