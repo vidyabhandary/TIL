@@ -47,10 +47,6 @@ More details can be found in the [Netflix Tech Blog](https://netflixtechblog.com
 
 ---
 
-Okay, here's a humorous LinkedIn article draft about Netflix's Dialogue Intelligibility Metric, keeping the tech intact!
-
----
-
 **Is Your Remote Finger Sore? Netflix Has a Plan for Dialogue Drama (Eventually!)**
 
 Ah, the sacred ritual of modern streaming: settle onto the sofa, snacks at the ready, hit play... and then spend the next two hours in a high-stakes, lightning-reflex game of "Volume Up, Volume DOWN!" You know the drill. One minute, the characters are whispering sweet nothings (or plotting dastardly deeds) at a volume only audible to bats. The next, a single car door slam or a stray gunshot unleashes the KRAKEN OF KILOHERTZ, rattling your fillings and prompting concerned texts from your neighbors.
@@ -92,10 +88,6 @@ Hats off to the audio wizards at Netflix for tackling this. My ears (and my neig
 What are your biggest audio pet peeves when streaming? Share below!
 
 \#Netflix \#Audio \#Tech \#MachineLearning \#DialogueIntelligibility \#UserExperience \#FutureOfSound \#NoMoreVolumeButton \#StreamingLife
-
----
-
-Okay, here's a revised, more concise version suitable for a LinkedIn post, with a new title and the caveat upfront:
 
 ---
 
@@ -163,5 +155,3 @@ To provide data-driven feedback to sound mixers and content partners before a sh
 It's about ensuring that even when the world is ending on screen, the dialogue within that chaos remains understandable. 𝗪𝗵𝗶𝘀𝗽𝗲𝗿𝘀 𝘀𝗵𝗼𝘂𝗹𝗱 𝗯𝗲 𝗰𝗹𝗲𝗮𝗿 𝘄𝗵𝗶𝘀𝗽𝗲𝗿𝘀, 𝗻𝗼𝘁 𝗶𝗻𝗮𝘂𝗱𝗶𝗯𝗹𝗲 𝗺𝘆𝘀𝘁𝗲𝗿𝗶𝗲𝘀.
 
 #Netflix #MachineLearning #AI #TechInnovation #UserExperience #Streaming #SoundDesign #QualityControl #MediaTech
-
-https://netflixtechblog.com/measuring-dialogue-intelligibility-for-netflix-content-58c13d2a6f6e
