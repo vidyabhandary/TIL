@@ -1,4 +1,4 @@
-**Dialogue Intelligibility Metric**
+# Dialogue Intelligibility Metric
 
 The article describes Netflix's development of a "Dialogue Intelligibility Metric" (DIM).
 
