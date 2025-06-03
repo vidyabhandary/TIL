@@ -91,7 +91,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 
 ## tech_reads
 
-* [**Dialogue Intelligibility Metric**](https://github.com/vidyabhandary/til/blob/master/tech_reads/Netflix's Dialogue Intelligibility Metric.md) - 2025-06-02
+* [Dialogue Intelligibility Metric](https://github.com/vidyabhandary/til/blob/master/tech_reads/Dialogue Intelligibility Metric.md) - 2025-06-03
 <!-- index ends -->
 
 ---
