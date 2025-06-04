@@ -1,6 +1,6 @@
 # Dialogue Intelligibility Metric
 
-The article describes Netflix's development of a "Dialogue Intelligibility Metric" (DIM).
+The article describes development of a Dialogue Intelligibility Metric (DIM) by Netflix.
 
 - **Problem:** Ensuring dialogue is clear and understandable for viewers is crucial. Previously, this was often assessed subjectively, which is slow, expensive, and not scalable.
 - **Solution:** They've created an objective, machine learning-based metric (DIM) that can automatically analyze an audio mix and predict how intelligible the dialogue will be to a human listener.
@@ -43,7 +43,7 @@ However, it's a tool for measurement and quality control. It will encourage bett
 
 ---
 
-More details can be found in the [Netflix Tech Blog](https://netflixtechblog.com/netflixs-dialogue-intelligibility-metric-2c1f3b0d8f4e).
+[Netflix Tech Blog](https://netflixtechblog.com/netflixs-dialogue-intelligibility-metric-2c1f3b0d8f4e).
 
 ---
 
