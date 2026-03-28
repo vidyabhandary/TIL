@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->56<!-- count ends --> TILs so far. 
+<!-- count starts -->57<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -22,10 +22,10 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 
 ## python
 
-* [Generate primes using Sieve of Erastosthenes](https://github.com/vidyabhandary/til/blob/master/python/generate_primes.md) - 2020-07-26
-* [Miscellaneous pythonisms](https://github.com/vidyabhandary/til/blob/master/python/misc_python.md) - 2020-07-26
-* [Python set_default() method](https://github.com/vidyabhandary/til/blob/master/python/set_default.md) - 2020-07-26
 * [Check if a number is prime](https://github.com/vidyabhandary/til/blob/master/python/is_prime.md) - 2020-07-26
+* [Python set_default() method](https://github.com/vidyabhandary/til/blob/master/python/set_default.md) - 2020-07-26
+* [Miscellaneous pythonisms](https://github.com/vidyabhandary/til/blob/master/python/misc_python.md) - 2020-07-26
+* [Generate primes using Sieve of Erastosthenes](https://github.com/vidyabhandary/til/blob/master/python/generate_primes.md) - 2020-07-26
 * [Slicing and Reversing](https://github.com/vidyabhandary/til/blob/master/python/slicing_reversing.md) - 2020-08-07
 * [Python string.punctuation](https://github.com/vidyabhandary/til/blob/master/python/string_punctuation.md) - 2020-08-08
 * [Named Slices](https://github.com/vidyabhandary/til/blob/master/python/named_slice.md) - 2020-08-28
@@ -67,8 +67,8 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 
 * [CloudFront Functions vs. Lambda@Edge: When to Use Which?](https://github.com/vidyabhandary/til/blob/master/aws/CloudFrontVsLambda@Edge.md) - 2025-04-25
 * [AWS RAM](https://github.com/vidyabhandary/til/blob/master/aws/AWS_RAM.md) - 2025-04-26
-* [VPN Appliance](https://github.com/vidyabhandary/til/blob/master/aws/VPN Appliance.md) - 2025-04-26
 * [What is AWS SAM?](https://github.com/vidyabhandary/til/blob/master/aws/SAM.md) - 2025-04-26
+* [VPN Appliance](https://github.com/vidyabhandary/til/blob/master/aws/VPN Appliance.md) - 2025-04-26
 * [CloudFormation Template vs CloudFormation StackSet](https://github.com/vidyabhandary/til/blob/master/aws/CF Template vs CF Stackset.md) - 2025-04-26
 * [AWS EKS vs EKS Anywhere Comparison Table](https://github.com/vidyabhandary/til/blob/master/aws/EKSAnyVsEKS.md) - 2025-04-26
 * [AWS Security Tools](https://github.com/vidyabhandary/til/blob/master/aws/aws_security_tools.md) - 2025-04-26
@@ -92,6 +92,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 ## tech_reads
 
 * [Dialogue Intelligibility Metric](https://github.com/vidyabhandary/til/blob/master/tech_reads/Dialogue_Intelligibility_Metric.md) - 2025-06-04
+* [Semantic vs Syntactic](https://github.com/vidyabhandary/til/blob/master/tech_reads/SemanticVsSyntactcic.md) - 2026-03-28
 <!-- index ends -->
 
 ---
