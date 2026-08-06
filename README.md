@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->58<!-- count ends --> TILs so far. 
+<!-- count starts -->59<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -97,6 +97,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 ## genai
 
 * [**Chunking in RAG**](https://github.com/vidyabhandary/til/blob/master/genai/ChunkingInRAG.md) - 2026-08-05
+* [Reranking in RAG](https://github.com/vidyabhandary/til/blob/master/genai/RerankingRag.md) - 2026-08-06
 <!-- index ends -->
 
 ---
