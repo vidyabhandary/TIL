@@ -1,4 +1,4 @@
-# **Chunking in RAG**
+# Chunking in RAG
 
 ### Concept
 
