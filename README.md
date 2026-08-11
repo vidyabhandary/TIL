@@ -100,7 +100,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [Reranking in RAG](https://github.com/vidyabhandary/til/blob/master/genai/RerankingRag.md) - 2026-08-06
 * [MCP Least Privilege](https://github.com/vidyabhandary/til/blob/master/genai/MCPLeastPrivilege.md) - 2026-08-06
 * [MCP Boundary Decisions](https://github.com/vidyabhandary/til/blob/master/genai/MCPBoundaryDecisions.md) - 2026-08-07
-* [Generative AI Nugget: **Hybrid Search — Keywords + Meaning**](https://github.com/vidyabhandary/til/blob/master/genai/Hybrid Search.md) - 2026-08-11
+* [Hybrid Search — Keywords + Meaning](https://github.com/vidyabhandary/til/blob/master/genai/Hybrid Search.md) - 2026-08-11
 <!-- index ends -->
 
 ---
