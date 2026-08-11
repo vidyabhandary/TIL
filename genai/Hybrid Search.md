@@ -1,4 +1,4 @@
-# Generative AI Nugget: **Hybrid Search — Keywords + Meaning**
+# Hybrid Search — Keywords + Meaning
 
 ### Concept
 
