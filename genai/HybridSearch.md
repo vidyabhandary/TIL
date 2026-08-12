@@ -1,4 +1,5 @@
-# Hybrid Search — Keywords + Meaning
+# Hybrid Search
+(Keywords + Meaning)
 
 ### Concept
 
