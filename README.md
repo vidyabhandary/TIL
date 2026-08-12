@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->62<!-- count ends --> TILs so far. 
+<!-- count starts -->63<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -101,6 +101,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [MCP Least Privilege](https://github.com/vidyabhandary/til/blob/master/genai/MCPLeastPrivilege.md) - 2026-08-06
 * [MCP Boundary Decisions](https://github.com/vidyabhandary/til/blob/master/genai/MCPBoundaryDecisions.md) - 2026-08-07
 * [Hybrid Search — Keywords + Meaning](https://github.com/vidyabhandary/til/blob/master/genai/Hybrid Search.md) - 2026-08-11
+* [Durable Execution](https://github.com/vidyabhandary/til/blob/master/genai/DurableExecution.md) - 2026-08-12
 <!-- index ends -->
 
 ---
