@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->64<!-- count ends --> TILs so far. 
+<!-- count starts -->65<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -103,6 +103,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [Durable Execution](https://github.com/vidyabhandary/til/blob/master/genai/DurableExecution.md) - 2026-08-12
 * [Hybrid Search](https://github.com/vidyabhandary/til/blob/master/genai/HybridSearch.md) - 2026-08-12
 * [MCP](https://github.com/vidyabhandary/til/blob/master/genai/MCP.md) - 2026-08-14
+* [Generative AI Nugget: **Prompt Caching — Make Long Context Cheaper Without Losing It**](https://github.com/vidyabhandary/til/blob/master/genai/PromptCaching.md) - 2026-08-17
 <!-- index ends -->
 
 ---
