@@ -1,4 +1,5 @@
-## Generative AI Nugget: **Prompt Caching — Make Long Context Cheaper Without Losing It**
+## Prompt Caching
+ — Make Long Context Cheaper Without Losing It
 
 ### Concept
 
