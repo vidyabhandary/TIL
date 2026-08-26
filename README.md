@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->71<!-- count ends --> TILs so far. 
+<!-- count starts -->72<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -110,6 +110,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [Semantic Caching](https://github.com/vidyabhandary/til/blob/master/genai/SemanticCaching.md) - 2026-08-25
 * [LoRA](https://github.com/vidyabhandary/til/blob/master/genai/Lora.md) - 2026-08-26
 * [Query Decomposition](https://github.com/vidyabhandary/til/blob/master/genai/QueryDecomposition.md) - 2026-08-26
+* [Multi-index retrieval](https://github.com/vidyabhandary/til/blob/master/genai/MultiIndexRetrieval.md) - 2026-08-26
 <!-- index ends -->
 
 ---
