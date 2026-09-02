@@ -1,4 +1,5 @@
-## Generative AI Nugget: **LLM Observability — Trace the AI Workflow, Not Just the API Call**
+## LLM Observability 
+— Trace the AI Workflow, Not Just the API Call
 
 ### Concept
 
