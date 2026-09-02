@@ -113,7 +113,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [Multi-index retrieval](https://github.com/vidyabhandary/til/blob/master/genai/MultiIndexRetrieval.md) - 2026-08-26
 * [HyDE](https://github.com/vidyabhandary/til/blob/master/genai/HyDE.md) - 2026-08-28
 * [Late Chunking](https://github.com/vidyabhandary/til/blob/master/genai/LateChunking.md) - 2026-08-31
-* [Generative AI Nugget: **LLM Observability — Trace the AI Workflow, Not Just the API Call**](https://github.com/vidyabhandary/til/blob/master/genai/LLMObservability.md) - 2026-09-01
+* [LLM Observability](https://github.com/vidyabhandary/til/blob/master/genai/LLMObservability.md) - 2026-09-01
 <!-- index ends -->
 
 ---
