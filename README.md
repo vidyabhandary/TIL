@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->76<!-- count ends --> TILs so far. 
+<!-- count starts -->77<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -115,6 +115,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [Late Chunking](https://github.com/vidyabhandary/til/blob/master/genai/LateChunking.md) - 2026-08-31
 * [LLM Observability](https://github.com/vidyabhandary/til/blob/master/genai/LLMObservability.md) - 2026-09-01
 * [GraphRAG](https://github.com/vidyabhandary/til/blob/master/genai/GraphRAG.md) - 2026-09-03
+* [Adaptive Reasoning](https://github.com/vidyabhandary/til/blob/master/genai/AdaptiveReasoning.md) - 2026-09-04
 <!-- index ends -->
 
 ---
