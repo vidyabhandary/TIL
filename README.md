@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->81<!-- count ends --> TILs so far. 
+<!-- count starts -->82<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -120,6 +120,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [Structured Outputs](https://github.com/vidyabhandary/til/blob/master/genai/StructuredOutput.md) - 2026-09-08
 * [Agent Handoffs](https://github.com/vidyabhandary/til/blob/master/genai/AgentHandoffs.md) - 2026-09-11
 * [LLM-as-a-Judge](https://github.com/vidyabhandary/til/blob/master/genai/LLMsAsJudge.md) - 2026-09-11
+* [Authorization-Aware RAG](https://github.com/vidyabhandary/til/blob/master/genai/AuthorizationRAG.md) - 2026-09-15
 <!-- index ends -->
 
 ---
