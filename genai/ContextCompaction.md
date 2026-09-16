@@ -1,4 +1,5 @@
-## Generative AI Nugget: **Context Compaction — Keep Long-Running Agents Within the Context Window**
+## Context Compaction 
+— Keep Long-Running Agents Within the Context Window
 
 ### Concept
 
