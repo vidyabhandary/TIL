@@ -121,7 +121,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [Agent Handoffs](https://github.com/vidyabhandary/til/blob/master/genai/AgentHandoffs.md) - 2026-09-11
 * [LLM-as-a-Judge](https://github.com/vidyabhandary/til/blob/master/genai/LLMsAsJudge.md) - 2026-09-11
 * [Authorization-Aware RAG](https://github.com/vidyabhandary/til/blob/master/genai/AuthorizationRAG.md) - 2026-09-15
-* [Generative AI Nugget: **Context Compaction — Keep Long-Running Agents Within the Context Window**](https://github.com/vidyabhandary/til/blob/master/genai/ContextCompaction.md) - 2026-09-16
+* [Context Compaction](https://github.com/vidyabhandary/til/blob/master/genai/ContextCompaction.md) - 2026-09-16
 <!-- index ends -->
 
 ---
