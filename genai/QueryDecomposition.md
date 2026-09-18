@@ -70,3 +70,82 @@ Automatically decomposing every query can create unnecessary searches, duplicate
 > **Complex questions often retrieve better when treated as several precise questions rather than one large semantic query.**
 
 [1]: https://github.com/openai/openai-python/blob/main/examples/responses/structured_outputs.py?utm_source=chatgpt.com "openai-python/examples/responses/structured_outputs.py at main · openai/openai-python · GitHub"
+
+## Generative AI Nugget: **Query Decomposition — One Complex Question, Several Searches**
+
+### Concept
+
+A single retrieval query works well for:
+
+> “What is our password rotation policy?”
+
+But many real questions contain **multiple information needs**:
+
+> “Can this system run active-active across EU regions, what database limitations apply, and what would that mean for RTO?”
+
+Sending that whole sentence as one vector query can blur the intent.
+
+**Query decomposition** uses an LLM to split the question into focused searches:
+
+```text
+Complex question
+      ↓
+Query planner
+      ↓
+ ┌──────────────┬──────────────┬──────────────┐
+ EU deployment   DB limitations  RTO requirements
+      ↓                ↓                ↓
+            parallel retrieval
+                    ↓
+             merge + rerank
+                    ↓
+                   LLM
+```
+
+Microsoft's current Azure AI Search **agentic retrieval** uses this same pattern: an LLM can create focused subqueries, execute them in parallel, semantically rerank each result set, and merge the evidence. ([Microsoft Learn][1])
+
+### Practical case study
+
+Suppose a solution architect asks:
+
+> “Can we deploy the application active-active in Germany and France while meeting the customer's 15-minute RPO?”
+
+A single search might over-focus on *active-active*.
+
+A planner can instead generate:
+
+1. `supported multi-region deployment topology`
+2. `database cross-region replication limitations`
+3. `customer RPO requirement 15 minutes`
+4. `Germany France data residency constraints`
+
+The retriever now has several chances to find **different pieces of evidence required for the final answer**.
+
+Decomposition happens **before retrieval**. This is different from reranking, which improves the ordering of documents that retrieval has already found.
+
+### When to use it
+
+Use decomposition for **multi-part questions, comparisons, investigative research, architecture analysis, root-cause analysis, and questions requiring evidence from several documents**.
+
+Don't use it automatically for simple factual queries. Turning:
+
+> “What is the support email?”
+
+into four searches only adds LLM cost and latency.
+
+### Architecture takeaway
+
+A useful retrieval stack is becoming:
+
+**question → decide complexity → decompose if needed → retrieve in parallel → rerank → generate**
+
+The important architectural decision is therefore no longer simply **“Which vector database?”** It is increasingly:
+
+> **How much reasoning should happen before search begins?**
+
+This pattern is becoming a first-class platform capability: Azure AI Search now exposes agentic retrieval around query planning and parallel retrieval, while Microsoft also exposes retrieval reasoning controls that trade additional search reasoning against latency and cost. ([Microsoft Learn][2])
+
+**Key principle:** **Complex questions often fail not because the knowledge is missing, but because you searched for all of it as though it were one thing.**
+
+[1]: https://learn.microsoft.com/en-us/azure/search/agentic-retrieval-overview?utm_source=chatgpt.com "Agentic Retrieval Overview - Azure AI Search | Microsoft Learn"
+[2]: https://learn.microsoft.com/en-us/azure/search/agentic-retrieval-how-to-create-pipeline?utm_source=chatgpt.com "Tutorial: Build an Agentic Retrieval Solution - Azure AI Search | Microsoft Learn"
