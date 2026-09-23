@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->84<!-- count ends --> TILs so far. 
+<!-- count starts -->85<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -123,6 +123,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [Authorization-Aware RAG](https://github.com/vidyabhandary/til/blob/master/genai/AuthorizationRAG.md) - 2026-09-15
 * [Context Compaction](https://github.com/vidyabhandary/til/blob/master/genai/ContextCompaction.md) - 2026-09-16
 * [Reranking](https://github.com/vidyabhandary/til/blob/master/genai/Rerank.md) - 2026-09-17
+* [Continuous Batching](https://github.com/vidyabhandary/til/blob/master/genai/ContinuousBatching.md) - 2026-09-23
 <!-- index ends -->
 
 ---
