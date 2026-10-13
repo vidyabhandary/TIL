@@ -2,7 +2,7 @@
 
 Today-I-Learned snippets. Inspired by the post [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/) by [Simon Willison](https://github.com/simonw) 
 
-<!-- count starts -->88<!-- count ends --> TILs so far. 
+<!-- count starts -->89<!-- count ends --> TILs so far. 
 <!-- index starts -->
 ## pandas-numpy
 
@@ -127,6 +127,7 @@ Today-I-Learned snippets. Inspired by the post [Building a self-updating profile
 * [Mixture of Experts (MoE)](https://github.com/vidyabhandary/til/blob/master/genai/MOE.md) - 2026-09-30
 * [Temporal RAG](https://github.com/vidyabhandary/til/blob/master/genai/TemporalRag.md) - 2026-10-08
 * [Semantic VAD](https://github.com/vidyabhandary/til/blob/master/genai/SemanticVAD.md) - 2026-10-09
+* [PII Minimization](https://github.com/vidyabhandary/til/blob/master/genai/PIIMinimization.md) - 2026-10-13
 <!-- index ends -->
 
 ---
